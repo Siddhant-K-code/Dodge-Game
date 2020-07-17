@@ -1,0 +1,23 @@
+html, body {
+  margin: auto;
+  padding: auto;
+}
+canvas {
+  display: block;
+}
+body{
+overflow:hidden;
+
+}
+P {
+  font-family: 'Fredoka One', cursive;
+  font-size:30px;
+}
+button{
+  font-family: 'Fredoka One', cursive;
+  background-color:rgb(0,200,255);
+  border:none;
+  color:white;
+  border-radius:5px;
+  font-size:32px;
+} 
